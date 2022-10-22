@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Teddy Bandama Atiama</h1>
+<h1 align="center">Hi 👋, I'm Teddy </h1>
 <h3 align="center">A passionate back-end developer from Bordeaux</h3>
 
 - 🔭 I’m currently working on [Motion_Battle](https://github.com/TheoFgr/motion_battle)
