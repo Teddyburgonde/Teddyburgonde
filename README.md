@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Teddy </h1>
 <h3 align="center">A passionate developper in C and Ruby from Bordeaux</h3>
 
-- 🔭 I’m currently working on [Motion_Battle](https://github.com/TheoFgr/motion_battle)
+- 🔭 I’m currently working on [Ruby](https://github.com/Teddyburgonde/rails-book-rooms-certif-challenge-2022-03-24-)
 
-- 👯 I’m currently working on [zero2hero](https://github.com/TheoFgr/zero2hero)
+- 👯 I’m currently working on [TypeScript](https://github.com/Teddyburgonde/Order)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
