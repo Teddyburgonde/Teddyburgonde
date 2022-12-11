@@ -12,6 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<a href="" target="" rel=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Angular/Angular-original.svg" alt="Angular" width="40" height="40"/> </a> 
+<a href="https://github.com/Teddyburgonde/Order" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> </a> 
+
 
 <a href="https://github.com/Teddyburgonde/Order" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
