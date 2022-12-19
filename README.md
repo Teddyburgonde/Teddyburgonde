@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Teddy </h1>
-<h3 align="center">A passionate developper from Bordeaux</h3>
+<h3 align="center">A passionate developper junior front on Angular ❤️</h3>
 
-- 🔭 I’m currently working on [Ruby](https://github.com/Teddyburgonde/rails-book-rooms-certif-challenge-2022-03-24-)
-
-- 👯 I’m currently working on [TypeScript](https://github.com/Teddyburgonde/Order)
+- 🔭 I’m currently working on [angular]https://ng-pokemon-app-bd2a3.firebaseapp.com/login
 
 <h3 align="left">Languages and Tools:</h3>
 
