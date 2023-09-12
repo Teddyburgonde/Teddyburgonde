@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Teddy </h1>
+<h1 align="center">Hi 👋, I'm Islem </h1>
 <h3 align="center">A passionate developper junior ❤️</h3>
 
-- 🔭 I’m currently working https://ng-pokemon-app-bd2a3.firebaseapp.com/login
+- 🔭 I’m currently working
+- https://63aa961746200d43b0f502a3--zippy-stardust-52aede.netlify.app/
+- https://ng-pokemon-app-bd2a3.firebaseapp.com/login
 
 <h3 align="left">Languages and Tools:</h3>
 
