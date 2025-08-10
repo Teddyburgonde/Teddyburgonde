@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developper web ❤️</h3>
 <br>
 <br>
-- 🔭 My portfolio
+- 🔭 My portfolio:
 
 https://teddyburgonde.github.io/
 
@@ -19,6 +19,8 @@ https://teddyburgonde.github.io/
 
 <br>
 <br>
-- My Hobbies ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+- My Hobbies:
+<br>
 
+LEETCODE !!! ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 <img width="359" height="130" alt="Capture d’écran 2025-08-10 à 08 52 30" src="https://github.com/user-attachments/assets/2b47ac57-e7dc-4577-8151-701dc77637f7" />
