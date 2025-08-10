@@ -22,7 +22,6 @@ https://teddyburgonde.github.io/
 <br>
 
 <h3 align="left">My Hobbies:</h3>
-<br>
 
 LEETCODE !!! ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 <br>
