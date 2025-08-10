@@ -3,7 +3,7 @@
 
 - 🔭 My portfolio
 
-https:// teddyburgonde.github.io/
+https://teddyburgonde.github.io/
 
 <h3 align="left">Languages and Tools:</h3>
 
