@@ -2,7 +2,8 @@
 <h3 align="center">A passionate developper web ❤️</h3>
 <br>
 <br>
-- 🔭 My portfolio:
+
+<h3 align="left"> My portfolio:</h3>
 
 https://teddyburgonde.github.io/
 
@@ -19,7 +20,8 @@ https://teddyburgonde.github.io/
 
 <br>
 <br>
-- My Hobbies:
+
+<h3 align="left">My Hobbies:</h3>
 <br>
 
 LEETCODE !!! ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
