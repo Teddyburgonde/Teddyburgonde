@@ -19,8 +19,6 @@ https://teddyburgonde.github.io/
 <h3 align="left">Passion:</h3> <br>
 LeetCode ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 
-<br>
-
 <img width="357" height="134" alt="Capture d’écran 2026-01-19 à 00 35 33" src="https://github.com/user-attachments/assets/294830fa-61a7-42dd-b2be-9dc73be9e0b8" />
 
 
