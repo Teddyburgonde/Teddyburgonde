@@ -5,20 +5,17 @@
 
 https://teddyburgonde.github.io/
 
-<br>
 
 <h3 align="left">Languages :</h3>
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
 
 <br>
-<br>
 <h3 align="left">Tools :</h3>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
 
-<br>
 <br>
 <br>
 
@@ -29,5 +26,4 @@ LeetCode ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤�
 <img width="357" height="134" alt="Capture d’écran 2026-01-19 à 00 35 33" src="https://github.com/user-attachments/assets/294830fa-61a7-42dd-b2be-9dc73be9e0b8" />
 
 
-<br>
 <br>
