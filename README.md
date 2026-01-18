@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Islem </h1>
 <h3 align="center">A passionate developper web ❤️🙂</h3>
 <br>
-<br>
 
 <h3 align="left"> My portfolio:</h3>
 
