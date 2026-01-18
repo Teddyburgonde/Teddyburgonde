@@ -26,7 +26,8 @@ LeetCode ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤�
 
 <br>
 
-<img width="411" height="177" alt="Screenshot from 2026-01-18 19-34-35" src="https://github.com/user-attachments/assets/071f4d38-def6-4a7e-a3e1-b43829ea0a00" />
+<img width="357" height="134" alt="Capture d’écran 2026-01-19 à 00 35 33" src="https://github.com/user-attachments/assets/294830fa-61a7-42dd-b2be-9dc73be9e0b8" />
+
 
 <br>
 <br>
