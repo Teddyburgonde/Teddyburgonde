@@ -20,7 +20,8 @@ https://teddyburgonde.github.io/
 LeetCode ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 <br>
 <br>
-<img width="357" height="134" alt="Capture d’écran 2026-01-19 à 23 09 24" src="https://github.com/user-attachments/assets/7f7146bf-f794-4853-9aec-c7b7d9691489" />
+
+<img width="357" height="134" alt="Capture d’écran 2026-01-19 à 23 30 10" src="https://github.com/user-attachments/assets/b8da53c0-4e52-4b03-bfdb-85a618350026" />
 
 
 
