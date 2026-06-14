@@ -12,7 +12,8 @@ En dehors du code, j'apprécie les échanges avec les autres et j'essaie toujour
 
 <h3 align="left">Langages :</h3>
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code> <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code> <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cobol/cobol-original.svg"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cobol/cobol-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code> <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code> 
 
 <h3 align="left">Outils :</h3>
 
