@@ -4,7 +4,7 @@
 <h3 align="left">Languages:</h3>
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/cobol/cobol.png"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cobol/cobol-original.svg"></code>
 
 <h3 align="left">Tools:</h3>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png"></code>
