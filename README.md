@@ -44,10 +44,15 @@ Je construis des solutions COBOL avec une mentalité production:
 </p>
 
 <p>
-  COBOL • JCL • PostgreSQL • Batch Processing • z/OS
+  COBOL • JCL • PostgreSQL • Batch Processing 
 </p>
 
 ---
 
 <p align="center">
-  <strong>Approche:</strong> Production-first. Code pour durer, pas
+  <strong>Approche:</strong> Production-first. Code pour durer.
+</p>
+
+<p align="center">
+  <strong>Approche:</strong> Production-first. Code pour durer, pas pour impressionner.
+</p>
