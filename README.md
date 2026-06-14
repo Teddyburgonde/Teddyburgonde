@@ -4,9 +4,8 @@
   💻 Développeur COBOL Mainframe
 </h3>
 
-<br>
 <p align="center">
-  <strong>Production-First | Zéro Erreur Silencieuse | Code qui Dure 20 Ans</strong>
+  <strong>Production-First | Code qui Dure 20 Ans</strong>
 </p>
 
 ---
