@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Code&size=35&duration=3000&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=Islem" />
-</h1>
+<h1 align="center">Islem</h1>
 
 <h3 align="center">
   💻 Développeur COBOL Mainframe
