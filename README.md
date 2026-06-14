@@ -4,6 +4,7 @@
   💻 Développeur COBOL Mainframe
 </h3>
 
+<br>
 <p align="center">
   <strong>Production-First | Zéro Erreur Silencieuse | Code qui Dure 20 Ans</strong>
 </p>
@@ -49,8 +50,4 @@ Je construis des solutions COBOL avec une mentalité production:
 
 <p align="center">
   <strong>Approche:</strong> Production-first. Code pour durer.
-</p>
-
-<p align="center">
-  <strong>Approche:</strong> Production-first. Code pour durer, pas pour impressionner.
 </p>
