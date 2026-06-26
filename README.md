@@ -1,12 +1,8 @@
 <h1 align="center">Islem</h1>
 
 <h3 align="center">
-  💻 Développeur COBOL Mainframe
+  💻 Développeur COBOL Mainframe, Angular , Java
 </h3>
-
-<p align="center">
-  <strong>Production-First | Code qui Dure 20 Ans</strong>
-</p>
 
 ---
 
