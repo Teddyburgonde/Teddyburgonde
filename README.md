@@ -27,7 +27,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <strong>Approche:</strong> Production-first. Code pour durer.
-</p>
