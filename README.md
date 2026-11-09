@@ -3,6 +3,16 @@
 <h3 align="center">
   💻 Développeur COBOL Mainframe, Angular , Java
 </h3>
+---
+
+### 🔥 À propos de moi
+
+**Obsédé** par la programmation, j'ai choisi d'y consacrer ma vie.
+
+J'aime travailler en équipe, échanger des idées et **apprendre auprès de développeurs plus expérimentés que moi.**
+
+**Mon état d'esprit :** coder énormément, apprendre constamment, **car je hais la zone de confort.**
+
 
 ---
 
