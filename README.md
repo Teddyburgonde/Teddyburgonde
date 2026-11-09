@@ -14,7 +14,7 @@ J'aime travailler en équipe, échanger des idées et **apprendre auprès de dé
 
 **Mon état d'esprit :** coder énormément, apprendre constamment, **car je hais la zone de confort.**
 
-
+<br>
 ---
 
 <h3>🎯 Spécialités</h3>
@@ -25,7 +25,7 @@ J'aime travailler en équipe, échanger des idées et **apprendre auprès de dé
   <img src="https://img.shields.io/badge/Batch-Processing-FF6B6B?style=flat-square" />
   <img src="https://img.shields.io/badge/Banking-Solutions-1ABC9C?style=flat-square" />
 </p>
-
+<br>
 ---
 
 <h3>🛠️ Tech Stack</h3>
