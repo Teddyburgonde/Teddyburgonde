@@ -3,7 +3,6 @@
 <h3 align="center">
   💻 Développeur COBOL Mainframe, Angular , Java
 </h3>
----
 
 ### 🔥 À propos de moi
 
