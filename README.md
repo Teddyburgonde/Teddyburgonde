@@ -15,7 +15,7 @@ J'aime travailler en équipe, échanger des idées et **apprendre auprès de dé
 **Mon état d'esprit :** coder énormément, apprendre constamment, **car je hais la zone de confort.**
 
 <br>
----
+
 
 <h3>🛠️ Tech Stack</h3>
 
@@ -25,5 +25,3 @@ J'aime travailler en équipe, échanger des idées et **apprendre auprès de dé
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
 </p>
-
----
