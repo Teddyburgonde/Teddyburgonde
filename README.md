@@ -26,10 +26,6 @@
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
 </p>
 
-<p>
-  COBOL • JCL • PostgreSQL • Batch Processing 
-</p>
-
 ---
 
 <p align="center">
