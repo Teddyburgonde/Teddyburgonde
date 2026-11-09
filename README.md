@@ -4,6 +4,8 @@
   💻 Développeur COBOL Mainframe, Angular , Java
 </h3>
 
+<br>
+
 ### 👨‍💻 À propos de moi
 
 **Obsédé** par la programmation, j'ai choisi d'y consacrer ma vie.
