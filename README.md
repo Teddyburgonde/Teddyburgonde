@@ -6,17 +6,6 @@
 
 ---
 
-<p>
-Je construis des solutions COBOL avec une mentalité production:
-
-🏗️ <strong>Architecture</strong> réfléchie et pensée long-terme  
-⚠️ <strong>Gestion d'erreurs</strong> systématique (zéro erreur silencieuse)  
-📖 <strong>Code</strong> documenté pour durer 20 ans  
-🔍 <strong>Audit trail</strong> et logging complet
-</p>
-
----
-
 <h3>🎯 Spécialités</h3>
 
 <p>
