@@ -8,7 +8,7 @@
 
 ### 👨‍💻 À propos de moi
 
-**Obsédé** par la programmation, j'ai choisi d'y consacrer ma vie.
+Je suis **Obsédé** par la programmation.
 
 J'aime travailler en équipe, échanger des idées et **apprendre auprès de développeurs plus expérimentés que moi.**
 
